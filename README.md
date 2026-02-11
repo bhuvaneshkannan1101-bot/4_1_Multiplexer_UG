@@ -19,10 +19,13 @@ Vivado 2023.1
 10.Close simulation.
 
 # Logic Diagram
+
 https://www.tutorialspoint.com/digital-electronics/images/4-1-multiplexer-circuit-diagram.jpg
 
 # Truthtable 
+
 "C:\Users\HP\Pictures\Screenshots\Screenshot 2026-02-11 194234.png"
+
 # Verilog Code
 4:1 MUX Gate-Level Implementation
 ```
